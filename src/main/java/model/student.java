@@ -7,11 +7,4 @@ public class student {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public student(String name) {
-        this.name = name;
-    }
 }
